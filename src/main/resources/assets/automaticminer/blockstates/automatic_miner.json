@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "automaticminer:automatic_miner" }
+  }
+}

@@ -1,0 +1,10 @@
+AUTOMATIC MINER - VERSAO CORRIGIDA
+
+Esta versão corrige os erros:
+- NonNullList agora usa inv.get(i) e inv.set(i, valor);
+- Inventário compatível com ItemStackHelper do Minecraft 1.12.2;
+- Proteção contra buraco mantida.
+
+Extraia o ZIP e envie TODO o conteúdo da pasta AutomaticMiner_GitHub
+para a raiz do seu repositório GitHub, substituindo os arquivos antigos.
+Depois rode o workflow Compilar Automatic Miner.
